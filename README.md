@@ -4,7 +4,7 @@ This is my CS50X final project which is a game named "space war" which was imple
 
 I used three libraries in this game to help me do the next:
 
-"class" : that one was used in the course to help us in building classes & objects in love2d & lua so I reused.
+"class" : that one was used in the course to help us in building classes & objects in love2d & lua .
 "suit-master" : that one was used to hellp me with building the menues to get the no.of players and time from the user.
 "cron" : that one was not really necessary  but I liked to use as it made building a timer more easier in love2d.
 
