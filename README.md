@@ -10,3 +10,5 @@ I used three libraries in this game to help me do the next:
 
 My project consist of three main files : main.lua, intro.lua, player.lua
 
+A video of the game: https://www.youtube.com/watch?v=qPaILyrFPAM
+
